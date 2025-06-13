@@ -3,7 +3,7 @@ import {
   Wrench,
   Search,
   Droplets,
-  Wheel,
+  CircleDot,
   Car,
   Palette,
   Battery,
@@ -33,7 +33,7 @@ const ServicesGrid = () => {
       desc: "Замена моторного масла и фильтров",
     },
     {
-      icon: Wheel,
+      icon: CircleDot,
       title: "Шиномонтаж",
       price: "от 2 000₸",
       desc: "Балансировка, ремонт дисков",
